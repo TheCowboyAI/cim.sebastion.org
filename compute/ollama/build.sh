@@ -1,0 +1,1 @@
+nix build .#nixosConfigurations.ollama.config.system.build.vm
